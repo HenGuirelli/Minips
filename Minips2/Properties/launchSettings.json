@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Minips2": {
+      "commandName": "Project",
+      "commandLineArgs": "trace 7 Entries/03.input"
+    }
+  }
+}
